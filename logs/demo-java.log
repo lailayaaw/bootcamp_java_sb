@@ -1,0 +1,8 @@
+14:34:26,285 [INFO ] - Starting BootcampJavaSbApplication using Java 25.0.2 with PID 15532 (C:\Work-Laila\bootcamp_java_sb\bootcamp_java_sb\target\classes started by user in C:\Work-Laila\bootcamp_java_sb\bootcamp_java_sb) (BootcampJavaSbApplication:54)
+14:34:26,295 [DEBUG] - Running with Spring Boot v4.0.2, Spring v7.0.3 (BootcampJavaSbApplication:55)
+14:34:26,297 [INFO ] - No active profile set, falling back to 1 default profile: "default" (BootcampJavaSbApplication:652)
+14:34:27,724 [INFO ] - [SERVICE] After Construction. (BootcampJavaSbApplication:19)
+14:34:28,001 [INFO ] - Started BootcampJavaSbApplication in 3.237 seconds (process running for 5.9) (BootcampJavaSbApplication:60)
+14:34:28,015 [INFO ] - TESTING THE LOGGER (BootcampJavaSbApplication:36)
+14:34:28,016 [INFO ] - [SERVICE] Sending Notification: Hello from BootcampJavaSbApplication! (BootcampJavaSbApplication:14)
+14:34:28,036 [INFO ] - [SERVICE] Before Destroy. (BootcampJavaSbApplication:24)
