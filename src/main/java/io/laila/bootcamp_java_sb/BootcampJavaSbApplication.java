@@ -44,14 +44,14 @@ public class BootcampJavaSbApplication implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 //
 //		logger.info("============ START ============");
-////		logger.info(this.applicationComponent.getFormatCurrentTimeStamp());
-////		this.applicationService.sendNotification("Hello from BootcampJavaSbApplication!");
-////		logger.info("Library Name: " + this.externalLibrary.getLibraryName());
+//		logger.info(this.applicationComponent.getFormatCurrentTimeStamp());
+//		this.applicationService.sendNotification("Hello from BootcampJavaSbApplication!");
+//		logger.info("Library Name: " + this.externalLibrary.getLibraryName());
 //		logger.info("User Name: " + applicationConfiguration.getUserName());
 //		logger.info("Password: " + applicationConfiguration.getUserPassword());
-////		this.asyncService.doMyLongTaskA("Laila");
+//		this.asyncService.doMyLongTaskA("Laila");
 //
-////		logger.info("User ID 1: " + this.userService.findUser(1));
+//		logger.info("User ID 1: " + this.userService.findUser(1));
 //		Integer userId1 = 1;
 //		Integer userId2 = 2;
 //
